@@ -25,7 +25,7 @@ SECRET_KEY = 'vj&alc@@srub^mvv6wx7fwk@-j-+&kz268s&_*f-j1p43oi+xg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','cropyeildsystem.herokuapp.com']
 
 
 # Application definition
