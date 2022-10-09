@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'vj&alc@@srub^mvv6wx7fwk@-j-+&kz268s&_*f-j1p43oi+xg'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','cropyeildsystem.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
